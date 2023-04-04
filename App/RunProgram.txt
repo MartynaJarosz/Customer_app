@@ -1,0 +1,9 @@
+Running a java program:
+
+Open a command prompt window and go to the directory where you saved the java program.
+
+Type 'javac *.java' and press enter to compile your code. 
+
+Type ' java Main ' to run your program.
+
+You will be able to see the result printed on the window.
